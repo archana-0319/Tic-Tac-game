@@ -28,3 +28,37 @@ const Modal = ({ showModal, setShowModal, xScore, oScore, resetAll }) => {
 };
 
 export default Modal;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// import Modal from "./Components/Modal";
+
+
+{/* <Modal
+        showModal={showModal}
+        setShowModal={setShowModal}
+        xScore={xScore}
+        oScore={oScore}
+        resetAll={resetAll}
+      /> */}
+
